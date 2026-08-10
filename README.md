@@ -2,73 +2,68 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=180&section=header&text=Kunal%20Dhiman&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&fontFamily=Montserrat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0617,30:312E81,65:6D28D9,100:4C1D95&height=220&section=header&text=KUNAL%20DHIMAN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&fontFamily=Montserrat" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+%7C+AI+%2F+ML+%7C+Cybersecurity;Full-Stack+Developer;Generative+AI+Enthusiast;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+%26+Generative+AI+Enthusiast;Computer+Science+%26+Engineering+Student;Building+Intelligent+Software+Products;Exploring+AI%2C+Cybersecurity+%26+Full-Stack+Engineering;Turning+Ideas+into+Practical+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-![B.E. Computer Science](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Chitkara University](https://img.shields.io/badge/Chitkara%20University-4C1D95?style=for-the-badge&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-312E81?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Mohali, Punjab](https://img.shields.io/badge/Mohali%2C%20Punjab-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chitkara%20University-312E81?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-4C1D95?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mohali%2C%20Punjab-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="mailto:kunaldhiman0200@gmail.com">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kunal-dhiman07/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kunaldhiman0200@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://github.com/KunalDhiman07">
-  <img src="https://img.shields.io/badge/GitHub-KunalDhiman07-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/kunal-dhiman07/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kunaldhiman0200@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KunalDhiman07&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/KunalDhiman07?label=FOLLOWERS&style=for-the-badge&color=4C1D95" />
-<img src="https://img.shields.io/github/stars/KunalDhiman07?label=STARS&style=for-the-badge&color=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=KunalDhiman07&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/KunalDhiman07?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/KunalDhiman07?label=STARS&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a **Computer Science and Engineering student at Chitkara University** with a strong interest in **software engineering, cybersecurity, Generative AI, and modern application development**.
+I’m a **Computer Science & Engineering student at Chitkara University** with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI**.
 
-My focus is on transforming technical concepts into practical, secure, and intelligent software solutions. I enjoy working across the development lifecycle — from designing interfaces and implementing application logic to integrating APIs, databases, authentication systems, and security-oriented functionality.
+I enjoy turning ideas into practical software and exploring how intelligent technologies can be integrated into real-world applications. My interests span **Generative AI, AI-powered applications, full-stack development, cybersecurity, networking, cryptography, and secure software engineering**.
 
-My current interests span **full-stack development, AI-powered applications, cybersecurity, networking, cryptography, and product engineering**. I continuously explore modern technologies while strengthening my programming, system-design, and problem-solving capabilities.
+I approach development with a product-oriented mindset — understanding the problem first, designing a practical solution, and continuously improving it through experimentation and engineering.
 
-### Engineering Interests
+### What I’m Focused On
 
-- Software Engineering & Application Development
-- Artificial Intelligence & Generative AI
-- Full-Stack Web Development
-- Cybersecurity & Network Security
-- Cryptography & Secure Data Handling
-- API Integration & Backend Development
-- Product Engineering & User-Centric Development
-- Linux & System Administration
+- Artificial Intelligence & Machine Learning
+- Generative AI & AI-powered applications
+- Python-based data and AI tooling
+- Full-stack application development
+- Cybersecurity & network security
+- Cryptography & secure data handling
+- APIs, databases, and backend systems
+- Software engineering & problem solving
 
 ### Open To
 
-- Software Engineering Opportunities
-- AI / ML & Generative AI Projects
-- Cybersecurity Projects
-- Full-Stack Development
-- Open Source Collaboration
-- Technical Internships
-- Engineering Communities & Hackathons
+**AI / ML Projects · Generative AI · Software Engineering · Full-Stack Development · Cybersecurity · Open Source · Technical Internships**
 
 ---
 
@@ -79,6 +74,22 @@ My current interests span **full-stack development, AI-powered applications, cyb
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=dark" />
+
+</div>
+
+### AI / ML & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -102,7 +113,7 @@ My current interests span **full-stack development, AI-powered applications, cyb
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" />
 
 </div>
 
@@ -112,40 +123,72 @@ My current interests span **full-stack development, AI-powered applications, cyb
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Generative AI | 🟣 Intermediate | Exploring modern Generative AI concepts, applications, and practical implementations |
-| Prompt Engineering | 🟣 Intermediate | Prompt design and interaction techniques for AI systems |
-| Modern AI | 🟣 Intermediate | Foundations of modern artificial intelligence and emerging AI technologies |
-| AI-Powered Applications | 🟣 Intermediate | Interested in integrating intelligent capabilities into practical software products |
-| Cybersecurity + AI | 🟣 Developing | Exploring the intersection of intelligent systems, security, and data protection |
+| **Generative AI** | 🟣 Intermediate | Exploring Generative AI concepts and practical AI-powered applications |
+| **Prompt Engineering** | 🟣 Intermediate | Learning prompt design and effective interaction with AI systems |
+| **Python Data Stack** | 🟣 Intermediate | Working with NumPy, pandas, and Matplotlib for data-oriented programming |
+| **AI Applications** | 🟣 Developing | Exploring how AI capabilities can be integrated into practical software products |
+| **AI Product Engineering** | 🟣 Developing | Interested in combining AI with frontend, backend, APIs, and databases |
+| **AI + Cybersecurity** | 🟣 Exploring | Exploring the intersection between intelligent systems and secure software |
 
 ---
 
 ## Featured Projects
 
 <details>
+<summary><strong>🤖 Panel — AI-Powered Interview Platform</strong></summary>
+
+<br/>
+
+An AI-powered interview platform designed to help candidates prepare for interviews based on their **target role and technical domain**.
+
+The platform combines interview practice, role-specific questions, candidate evaluation, resume analysis, and multiple interview rounds into a unified experience.
+
+| Category | Details |
+|---|---|
+| **Stack** | AI / Generative AI, JavaScript, Node.js, MongoDB |
+| **Scale** | Full-stack AI-powered application |
+| **Performance** | Designed for dynamic interview generation and evaluation |
+| **Security** | Authentication and controlled application workflows |
+| **Impact** | Helps candidates practice structured, role-specific interviews |
+| **Repository** | [Panel-AI-Interview-Platform](https://github.com/KunalDhiman07/Panel-AI-Interview-Platform) |
+
+### Engineering Scope
+
+- AI-assisted interview question generation
+- Role-specific interview preparation
+- HR, technical, and coding interview rounds
+- Resume checking functionality
+- Candidate scoring and evaluation
+- Responsive design for desktop, tablet, and mobile
+- Full-stack architecture connecting frontend, backend, database, and AI capabilities
+- Continuous development and refinement
+
+</details>
+
+<details>
 <summary><strong>🔐 Encryption & Decryption Tool</strong></summary>
 
 <br/>
 
-A modular encryption and decryption utility based on the **Caesar Cipher**, designed to encode and decode user-provided input while correctly handling different character categories.
+A lightweight encryption and decryption utility based on the **Caesar Cipher**, developed to strengthen understanding of fundamental cryptography and secure data handling.
 
 | Category | Details |
 |---|---|
-| **Stack** | Java / Core Programming Concepts |
-| **Scale** | Lightweight utility application |
+| **Stack** | Java / Core Programming |
+| **Scale** | Lightweight security utility |
 | **Performance** | Efficient character-shifting operations |
-| **Security** | Fundamental cryptography and secure data handling concepts |
-| **Impact** | Strengthened understanding of cryptographic logic and secure input processing |
-| **Repository** | [View on GitHub](https://github.com/KunalDhiman07) |
+| **Security** | Fundamental encryption and decryption concepts |
+| **Impact** | Strengthened understanding of cryptographic logic |
+| **Repository** | [View GitHub](https://github.com/KunalDhiman07) |
 
 ### Engineering Scope
 
-- Implemented Caesar Cipher based encryption and decryption.
-- Added support for uppercase and lowercase characters.
-- Handled special characters without corrupting input.
-- Designed modular logic for improved maintainability.
-- Focused on user-friendly interaction.
-- Applied foundational cryptography concepts to a practical software utility.
+- Implemented Caesar Cipher encryption and decryption
+- Supported uppercase and lowercase characters
+- Preserved special characters
+- Designed modular program logic
+- Focused on maintainability and user-friendly interaction
+- Applied foundational cryptography concepts to a practical application
 
 </details>
 
@@ -154,27 +197,27 @@ A modular encryption and decryption utility based on the **Caesar Cipher**, desi
 
 <br/>
 
-A full-stack rental booking platform featuring authentication, real-time booking functionality, administrative controls, property management, and system-wide announcements.
+A full-stack rental booking platform featuring authentication, booking functionality, property management, administrative controls, and real-time announcements.
 
 | Category | Details |
 |---|---|
 | **Stack** | Node.js, MongoDB |
 | **Scale** | Full-stack web application |
 | **Performance** | Real-time booking and announcement workflows |
-| **Security** | User authentication and controlled administrative functionality |
-| **Impact** | Streamlined rental discovery, booking management, and administration |
-| **Repository** | [View on GitHub](https://github.com/KunalDhiman07) |
+| **Security** | Authentication and controlled administrative functionality |
+| **Impact** | Simplifies rental booking and administrative management |
+| **Repository** | [View GitHub](https://github.com/KunalDhiman07) |
 
 ### Engineering Scope
 
-- Built a full-stack rental booking workflow.
-- Implemented user authentication.
-- Developed real-time booking functionality.
-- Created an administrative panel for booking management.
-- Added property creation and deletion functionality.
-- Implemented activity monitoring capabilities.
-- Added real-time announcements for broadcasting messages to users.
-- Integrated MongoDB for application data management.
+- Built a full-stack rental booking workflow
+- Implemented user authentication
+- Added booking functionality
+- Developed an administrative panel
+- Added property management capabilities
+- Implemented activity monitoring
+- Added real-time announcements
+- Used MongoDB for persistent application data
 
 </details>
 
@@ -183,25 +226,25 @@ A full-stack rental booking platform featuring authentication, real-time booking
 
 <br/>
 
-A responsive weather application designed to provide real-time weather information for multiple locations through external API integration.
+A responsive weather application that retrieves real-time weather information through external APIs and presents it through a clean user interface.
 
 | Category | Details |
 |---|---|
-| **Stack** | HTML, CSS, JavaScript, External Weather APIs |
+| **Stack** | HTML, CSS, JavaScript, Weather API |
 | **Scale** | Responsive web application |
-| **Performance** | API-driven real-time weather retrieval |
-| **Security** | External API integration and controlled data presentation |
-| **Impact** | Improved understanding of API consumption and responsive frontend development |
-| **Repository** | [View on GitHub](https://github.com/KunalDhiman07) |
+| **Performance** | Real-time API-based data retrieval |
+| **Security** | External API integration |
+| **Impact** | Strengthened frontend and API integration skills |
+| **Repository** | [View GitHub](https://github.com/KunalDhiman07) |
 
 ### Engineering Scope
 
-- Developed a responsive weather interface.
-- Integrated external APIs for real-time weather information.
-- Displayed temperature, humidity, and wind conditions.
-- Supported weather information for multiple locations.
-- Focused on clean interface design.
-- Improved frontend and API integration skills.
+- Developed a responsive weather interface
+- Integrated external weather APIs
+- Displayed temperature, humidity, and wind information
+- Supported multiple locations
+- Focused on clean UI and user experience
+- Practiced real-time API integration
 
 </details>
 
@@ -213,16 +256,17 @@ A responsive weather application designed to provide real-time weather informati
 
 **November 2025 – Present**
 
-Contributing as a **Discipline Executive within IEEE**, developing organizational, collaborative, and technical-community experience alongside academic work.
+Serving as a **Discipline Executive at IEEE**, contributing to a technical student community while developing collaboration, communication, organizational, and leadership skills.
 
 #### Scope of Work
 
-- Participate in IEEE-related student activities.
-- Collaborate with peers within a technical community.
-- Contribute to organizational initiatives and discipline-related activities.
-- Develop communication, teamwork, and leadership capabilities.
+- Participate in IEEE activities and initiatives
+- Collaborate with students and technical communities
+- Contribute to organizational activities
+- Work with peers on technology-focused initiatives
+- Develop leadership and communication skills
 
-**Skills:** `Leadership` `Communication` `Teamwork` `Technical Community` `Organization`
+**Skills:** `Leadership` `Communication` `Teamwork` `Organization` `Technical Community`
 
 ---
 
@@ -232,11 +276,11 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 | Recognition | Details |
 |---|---|
-| **B.E. Computer Science & Engineering** | Pursuing Computer Science and Engineering at Chitkara University |
-| **IEEE Discipline Executive** | Serving as a Discipline Executive since November 2025 |
+| **IEEE Discipline Executive** | Serving as Discipline Executive since November 2025 |
+| **AI & Generative AI Learning** | Completed certifications focused on modern AI and Generative AI |
 | **Cybersecurity Learning** | Completed multiple cybersecurity and networking certifications |
-| **Generative AI Learning** | Completed certifications focused on modern AI and Generative AI |
 | **Linux Administration** | Completed Red Hat System Administration I & II |
+| **Project Development** | Built projects across AI, full-stack development, APIs, and cryptography |
 
 </div>
 
@@ -246,7 +290,11 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 ### Google
 
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
 
 - **Foundations of Cybersecurity** — Apr 2026
 - **Connect and Protect: Networks and Network Security** — Apr 2026
@@ -256,25 +304,35 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 ### Cisco
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
 
 - **Introduction to Cybersecurity** — Jan 2025
 - **Introduction to Modern AI** — Dec 2025
 
 ### Red Hat
 
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+
+</div>
 
 - **Red Hat System Administration I (RH124)** — Mar 2026
 - **Red Hat System Administration II (RH134)** — Mar 2026
 
 ### University of Maryland
 
-![University of Maryland](https://img.shields.io/badge/University%20of%20Maryland-312E81?style=for-the-badge&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/University%20of%20Maryland-312E81?style=for-the-badge&logoColor=white"/>
+
+</div>
 
 - **Cybersecurity for Everyone** — Feb 2026
-
-> AWS, Oracle, and NPTEL certifications are not listed in the supplied profile information and therefore are not represented as completed certifications.
 
 ---
 
@@ -282,20 +340,8 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://leetcode.com/u/Kunal_dhiman/">
+<img src="https://img.shields.io/badge/LeetCode-KUNAL__DHIMAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
@@ -307,16 +353,20 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 <div align="center">
 
 <a href="https://github.com/KunalDhiman07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalDhiman07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0B1A&title_color=8B5CF6&icon_color=7C3AED&text_color=E5E7EB" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=KunalDhiman07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+
 </a>
 
 <a href="https://github.com/KunalDhiman07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalDhiman07&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=8B5CF6&text_color=E5E7EB" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalDhiman07&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KunalDhiman07&theme=tokyonight&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com/?user=KunalDhiman07&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -326,7 +376,11 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KunalDhiman07&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<a href="https://github.com/KunalDhiman07">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KunalDhiman07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+
+</a>
 
 </div>
 
@@ -336,7 +390,7 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalDhiman07&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalDhiman07&bg_color=0B0617&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Kunal%20Dhiman%20%E2%80%94%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -346,7 +400,7 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KunalDhiman07/KunalDhiman07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/KunalDhiman07/KunalDhiman07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
@@ -355,32 +409,51 @@ Contributing as a **Discipline Executive within IEEE**, developing organizationa
 ## Current Focus
 
 ```yaml
-current_focus:
+profile:
+  primary_focus:
+    - Artificial Intelligence
+    - Machine Learning
+    - Generative AI
+    - AI Product Engineering
+
   learning:
+    - Generative AI
+    - Prompt Engineering
+    - AI Applications
     - Software Engineering
     - Cybersecurity
     - Network Security
-    - Generative AI
-    - Artificial Intelligence
-    - Linux & System Administration
+    - Linux Administration
+
+  working_with:
+    - Python
+    - NumPy
+    - pandas
+    - Matplotlib
+    - Java
+    - C++
+    - JavaScript
+    - Node.js
+    - MongoDB
 
   building:
-    - Full-Stack Web Applications
-    - Secure Software Solutions
     - AI-Powered Applications
-    - Practical Engineering Projects
+    - Full-Stack Web Applications
+    - Intelligent Software Products
+    - Secure Software Solutions
 
   exploring:
-    - Modern AI Technologies
+    - AI + Cybersecurity
+    - Generative AI Applications
+    - AI Automation
     - Secure Application Architecture
-    - Cryptography
-    - API Integration
     - Product Engineering
 
   open_to:
-    - Software Engineering Opportunities
-    - AI / ML Projects
-    - Cybersecurity Projects
+    - AI / ML Opportunities
+    - Generative AI Projects
+    - Software Engineering
     - Full-Stack Development
-    - Open Source Collaboration
+    - Cybersecurity Projects
+    - Open Source
     - Technical Internships
