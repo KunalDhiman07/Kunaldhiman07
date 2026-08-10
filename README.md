@@ -352,35 +352,7 @@ Serving as a **Discipline Executive at IEEE**, contributing to a technical stude
 
 <div align="center">
 
-<a href="https://github.com/KunalDhiman07">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KunalDhiman07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-
-</a>
-
-<a href="https://github.com/KunalDhiman07">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalDhiman07&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-
-</a>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=KunalDhiman07&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/KunalDhiman07">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KunalDhiman07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-
-</a>
 
 </div>
 
@@ -391,16 +363,6 @@ Serving as a **Discipline Executive at IEEE**, contributing to a technical stude
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalDhiman07&bg_color=0B0617&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Kunal%20Dhiman%20%E2%80%94%20Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KunalDhiman07/KunalDhiman07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
